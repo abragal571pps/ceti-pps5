@@ -74,7 +74,7 @@ def ejecutar_programa():
     delegando esta responsabilidad en la función principal.
     """
 
-    palabras = pedir_palabras(5)
+    palabras = pedir_palabras(10)
     return cadena_mas_larga(palabras)
 
 
