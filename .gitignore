@@ -17,6 +17,7 @@ env/
 
 # Variables de entorno y configuración sensible
 .env
+secrets.env
 
 # Configuración local del editor
 .vscode/
