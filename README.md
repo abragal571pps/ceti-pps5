@@ -220,3 +220,6 @@ git merge desarrollo-seguro --allow-unrelated-histories
 Este documento resume la estructura técnica del proyecto, las instrucciones necesarias para su ejecución y las decisiones de seguridad aplicadas durante la preparación del repositorio.
 
 El uso de ramas, la configuración de `.gitignore` y la documentación del proceso permiten mantener un repositorio más ordenado, seguro y fácil de revisar.
+
+
+- (GPG)
